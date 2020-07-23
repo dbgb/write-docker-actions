@@ -1,4 +1,4 @@
-name: "My Hello Action"
+name: "Greeter Action"
 
 description: "Say hello with Github Actions"
 

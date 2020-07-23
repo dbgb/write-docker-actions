@@ -1,4 +1,6 @@
-# Welcome to your course 🎉
+# GitHub Actions: Writing Docker Actions  🎉
+
+![Docker Actions](https://github.com/dbgb/write-docker-actions/workflows/Docker%20Actions/badge.svg?branch=master)
 
 ### Getting started
 

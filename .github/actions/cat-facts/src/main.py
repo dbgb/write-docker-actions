@@ -8,6 +8,7 @@ r = requests.get(cat_url)
 r_obj_list = r.json()["all"]
 
 # Add the "text" of every object into the fact_list list
+fact_list = []
 for fact in r_obj_list:
     fact_list.append(fact["text"])
 
